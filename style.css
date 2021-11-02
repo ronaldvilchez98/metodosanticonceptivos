@@ -149,8 +149,19 @@ header nav ul li a.active
     height:auto;
 }
 
-h3{
-    color: white;
+
+.parrafo{
+    margin: 1em;
+}
+
+h1  {
+    margin: 1rem;
+}
+
+.titulo_centrado h1{
+    text-align: center;
+    margin: 5% auto;
+    color: rgb(43, 58, 126)
 }
 
 
